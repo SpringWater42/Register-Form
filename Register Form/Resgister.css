@@ -9,9 +9,7 @@ body{
 }
 
 .Box2 {
-  background-image: url(Images/sky.png);
   color: rgb(209, 163, 11);
-
   font-size: medium;
   margin: auto;
   padding: 100px;
